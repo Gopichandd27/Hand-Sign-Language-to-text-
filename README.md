@@ -1,4 +1,4 @@
-# Hand-Sign-Language-to-text
+# Hand-Sign-Language-to-text-conversion
 Hand-Sign-Language-to-Text conversion
 
 In this Project, the main goal and objective is to convert hand sign language  of the user shown to text format. Signs shown by the user is converted to a specific text. Here we use CNN to train the required models for prediction of the text.
